@@ -1,6 +1,9 @@
 # Week_1_Assessment
 
----------- TASK_1 ----------
+========================================================================
+                             TASK_1 
+========================================================================
+
 
 -:Python Core, OOP and Errors:-
 
@@ -16,7 +19,9 @@ Dataset:
 The CSV file contains employee ID, name, department, salary, and city.
 
 
----------- TASK_2 ----------
+========================================================================
+                             TASK_2
+========================================================================
 
 -:Files, APIs and Environment:-
 
@@ -41,7 +46,9 @@ Features:
     -Saves processed API data into users.json.
 
 
----------- TASK_3 ----------
+========================================================================
+                             TASK_3
+========================================================================
 
 -:NumPy and Pandas Data Analysis:-
 
@@ -67,9 +74,9 @@ Libraries Used:
 Conclusion:
     Successfully performed data cleaning, calculations, analysis and visualization using Python.
 
-
----------- TASK_4 ----------
-
+========================================================================
+                             TASK_4 
+========================================================================
 
 -:Git, Terminal and Notebook:-
 
