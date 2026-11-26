@@ -11,17 +11,12 @@ Concepts Covered:
     -List comprehension, map(), lambda, and filter().
     -For loops using break and continue.
 
-Datasets:
-
-The CSV file contains employee ID, name, department, salary, and city.
-
 
 ---------- TASK_2 ----------
 
 -:Files, APIs and Environment:-
 
 Requirements:
-
     -Python
     -requests
     -python-dotenv
@@ -30,7 +25,6 @@ Requirements:
     -numpy
 
 Features:
-
     -Reads employee records using csv.DictReader().
     -Converts employee data into employees.json.
     -Filters employees earning above 50,000 into high_earners.csv.
@@ -64,9 +58,6 @@ Libraries Used:
     -Pandas
     -Matplotlib
 
-Conclusion:
-    Successfully performed data cleaning, calculations, analysis and visualization using Python.
-
 
 ---------- TASK_4 ----------
 
@@ -74,8 +65,7 @@ Conclusion:
 -:Git, Terminal and Notebook:-
 
 Tasks Performed:
-    -Created a GitHub repository named week1-assessment.
-    -Created the feature/analysis branch.
+    -Created a GitHub repository named week1-assessment.Created the feature/analysis branch.
     -Created folders using terminal commands: mkdir, cp and mv.
     -Used grep to find Chennai in the data file.
     -Created a Jupyter Notebook for data analysis.
@@ -95,11 +85,4 @@ Findings:
     -Chennai has 3 students.
 
 Tools Used:
-    -Git
-    -GitHub
-    -Python
-    -Jupyter Notebook
-    -Terminal
-
-Conclusion:
-    Successfully completed the Git and Jupyter assessment and merged the feature branch into main.
+    -Git,GitHub,Python,Jupyter Notebook,Terminal
