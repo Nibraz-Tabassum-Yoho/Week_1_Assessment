@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "email": "Sincere@april.biz",
+        "city": "Gwenborough",
+        "company_name": "Romaguera-Crona",
+        "catch_phrase": "Multi-layered client-server neural-net"
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "email": "Shanna@melissa.tv",
+        "city": "Wisokyburgh",
+        "company_name": "Deckow-Crist",
+        "catch_phrase": "Proactive didactic contingency"
+    },
+    {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "email": "Nathan@yesenia.net",
+        "city": "McKenziehaven",
+        "company_name": "Romaguera-Jacobson",
+        "catch_phrase": "Face to face bifurcated interface"
+    },
+    {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "email": "Julianne.OConner@kory.org",
+        "city": "South Elvis",
+        "company_name": "Robel-Corkery",
+        "catch_phrase": "Multi-tiered zero tolerance productivity"
+    },
+    {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        "email": "Lucio_Hettinger@annie.ca",
+        "city": "Roscoeview",
+        "company_name": "Keebler LLC",
+        "catch_phrase": "User-centric fault-tolerant solution"
+    },
+    {
+        "id": 6,
+        "name": "Mrs. Dennis Schulist",
+        "email": "Karley_Dach@jasper.info",
+        "city": "South Christy",
+        "company_name": "Considine-Lockman",
+        "catch_phrase": "Synchronised bottom-line interface"
+    },
+    {
+        "id": 7,
+        "name": "Kurtis Weissnat",
+        "email": "Telly.Hoeger@billy.biz",
+        "city": "Howemouth",
+        "company_name": "Johns Group",
+        "catch_phrase": "Configurable multimedia task-force"
+    },
+    {
+        "id": 8,
+        "name": "Nicholas Runolfsdottir V",
+        "email": "Sherwood@rosamond.me",
+        "city": "Aliyaview",
+        "company_name": "Abernathy Group",
+        "catch_phrase": "Implemented secondary concept"
+    },
+    {
+        "id": 9,
+        "name": "Glenna Reichert",
+        "email": "Chaim_McDermott@dana.io",
+        "city": "Bartholomebury",
+        "company_name": "Yost and Sons",
+        "catch_phrase": "Switchable contextually-based project"
+    },
+    {
+        "id": 10,
+        "name": "Clementina DuBuque",
+        "email": "Rey.Padberg@karina.biz",
+        "city": "Lebsackbury",
+        "company_name": "Hoeger LLC",
+        "catch_phrase": "Centralized empowering task-force"
+    }
+]
